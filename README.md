@@ -53,9 +53,12 @@ All embeddings, storage, and AI inference happen in your browser. No account. No
 |------|-------|-----------------|
 | **Free trial** | $0 — 14 days | Full access. No credit card required. |
 | **Monthly** | $6.99 / month | Cancel anytime. |
-| **Annual** | $4.17 / month | Billed $49.99/year — save 40%. Most popular. |
+| **Annual** ⭐ | $4.17 / month | Billed $49.99/year — save 40%. Most popular. |
+| **Lifetime** | $129 one-time | Pay once. Own forever. All future updates included. |
 
 After the trial, your indexed history is **frozen, not deleted** — pay anytime to unfreeze instantly. Data is preserved locally for 30 days.
+
+All plans include a **30-day money-back guarantee**.
 
 ---
 
